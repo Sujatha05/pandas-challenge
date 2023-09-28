@@ -1,0 +1,24 @@
+Written Report
+
+The dataset has a total of 15 unique schools (8 independent and 7 Government school) and 39,170 students.
+The average math score(~70.34) is greater than the average reading score (~69.98). Further the passing Maths percentage (~86.08) is greater than reading pass percentage (~84.43).The overall passing percentage is 72.81%.
+
+
+The performance of the independent school is higher than the government school which is evident from the dataframe that populates the top performing schools &  scores by school type. Further it is also clear from the worst performing schools dataframe which has 4 Government schools (out of 5).
+
+From the data set populated for the Reading & Maths scores for the Year 9 to Year 12, there is no pattern that can be arrived (i.e A particular year level performing better than others etc.)
+
+The Average maths & Reading score, Percentage passing maths & reading, Overall pass percentage are the highest for the Spending ranges (per student) $ 585 to 630.
+
+The schools with less students (less than 1000) have topped in Average maths & reading score, Percentage passing maths & reading, Overall pass percentage.
+
+Conclusion:
+
+It can be concluded that (i) students studying in Independent school or (ii) students studying in small size schools have better prospects (i.e Better passing percentage overall & in individual reading/maths score).  
+
+
+
+
+
+
+
